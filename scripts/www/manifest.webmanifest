@@ -1,0 +1,15 @@
+{
+  "name": "NovelAI 批量净图工具 Pro",
+  "short_name": "NAI净图",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
